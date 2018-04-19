@@ -1,0 +1,2 @@
+<http://config.here> <http://dma.config/inputFile> "https://raw.githubusercontent.com/syats/someRMLStuff/master/sample_input_files/ADEQUATE_Original.json".
+<http://config.here> <http://dma.config/mappingFile> "https://raw.githubusercontent.com/syats/someRMLStuff/master/sample_mappings/ADEQUATE_Original_mapping.rml.ttl".
